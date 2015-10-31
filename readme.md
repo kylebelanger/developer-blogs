@@ -1,9 +1,9 @@
-# Developer Blog List
+# Developer Blogs
 
-A list of individual developer/engineering blogs from real people
+A collection of developer/engineering blogs from real people
 
 * Tom Macwright
-	** JavaScript engineer at MapBox
-	** http://www.macwright.org/
+	JavaScript engineer at MapBox
+	http://www.macwright.org/
 
 
