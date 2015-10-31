@@ -4,7 +4,7 @@ A collection of developer/engineering blogs from real people
 
 * [Tom Macwright](http://www.macwright.org/)
 
-	JavaScript engineer at MapBox. Does unique, handmade stencil drawings in a variety of personal projects
+	MapBox - JavaScript engineer. Does unique, handmade stencil drawings in a variety of personal projects
 
 * [Nelson](http://www.somebits.com/weblog/)
 	
