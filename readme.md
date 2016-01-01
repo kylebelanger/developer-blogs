@@ -17,3 +17,7 @@ A collection of developer/engineering blogs from real people
 * [The If Works](https://blog.jcoglan.com/)
 
 	James Coglan software/web dev blog. Simple design, interesting articles. 
+
+* [Jay Taylor](http://jaytaylor.com)
+
+	Worth checking up on
