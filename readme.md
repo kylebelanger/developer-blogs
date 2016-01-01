@@ -12,12 +12,16 @@ A collection of developer/engineering blogs from real people
 
 * [Molsson](http://mo.github.io/)
 
-	Worth checking up on
+	Worth checking up on.
 
 * [The If Works](https://blog.jcoglan.com/)
 
 	James Coglan software/web dev blog. Simple design, interesting articles. 
 
+* [Brian Rae](http://www.brianrea.com/)
+
+	Graphic designer with NYT.
+
 * [Jay Taylor](http://jaytaylor.com)
 
-	Worth checking up on
+	Worth checking up on.
