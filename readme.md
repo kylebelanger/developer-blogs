@@ -2,12 +2,16 @@
 
 A collection of developer/engineering blogs from real people
 
+* [Matthew Green](http://blog.cryptographyengineering.com/)
+
+	Matthew Green - Cryptographic engineer and professor at Johns Hopkins University.
+
 * [Tom Macwright](http://www.macwright.org/)
 
 	MapBox - JavaScript engineer. Does unique, handmade stencil drawings in a variety of personal projects
 
 * [Nelson](http://www.somebits.com/weblog/)
-	
+
 	Interesting software engineer; creator of D3 river map data visualization. Interesting linkblog connected with Pinboard featuring informative articles
 
 * [Molsson](http://mo.github.io/)
@@ -16,7 +20,7 @@ A collection of developer/engineering blogs from real people
 
 * [The If Works](https://blog.jcoglan.com/)
 
-	James Coglan software/web dev blog. Simple design, interesting articles. 
+	James Coglan software/web dev blog. Simple design, interesting articles.
 
 * [Brian Rae](http://www.brianrea.com/)
 
