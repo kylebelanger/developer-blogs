@@ -2,9 +2,13 @@
 
 A collection of developer/engineering blogs from real people
 
+* [Yusuke Shinyama](http://tabesugi.net/index.html) (Japenses)
+
+	Japanese software developer - creator of open-source project PFDminer. Nice website style.
+
 * [Matthew Green](http://blog.cryptographyengineering.com/)
 
-	Matthew Green - Cryptographic engineer and professor at Johns Hopkins University.
+	Cryptographic engineer and professor at Johns Hopkins University.
 
 * [Tom Macwright](http://www.macwright.org/)
 
