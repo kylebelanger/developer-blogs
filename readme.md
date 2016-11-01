@@ -2,9 +2,9 @@
 
 A collection of developer/engineering blogs from real people
 
-* [Yusuke Shinyama](http://tabesugi.net/index.html) (Japenses)
+* [Documentation Archive](http://readthedocs.org)
 
-	Japanese software developer - creator of open-source project PFDminer. Nice website style.
+	Read the Docs - website hosting project documentation and archives. 
 
 * [Matthew Green](http://blog.cryptographyengineering.com/)
 
