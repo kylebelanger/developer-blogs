@@ -2,6 +2,8 @@
 
 A collection of developer/engineering blogs from real people
 
+* [Evan Miller - Engineer, Mathematician](http://www.evanmiller.org/index.html)
+
 * [Documentation Archive](http://readthedocs.org)
 
 	Read the Docs - website hosting project documentation and archives. 
