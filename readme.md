@@ -2,6 +2,8 @@
 
 A collection of developer/engineering blogs from real people
 
+* [Jason Davies - Software Engineer (data visualization, mathmatician)](https://www.jasondavies.com/)
+
 * [Pavel Zemtsov - Software Engineer](http://pzemtsov.github.io/)
 
 * [Evan Miller - Engineer, Mathematician](http://www.evanmiller.org/index.html)
