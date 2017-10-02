@@ -2,6 +2,10 @@
 
 A collection of developer/engineering blogs from real people
 
+* [Avery Laird](http://www.averylaird.com)
+	
+	Blog. Computer scientist - working on creating a text editor.
+
 * [Jason Davies](https://www.jasondavies.com/)
 
 	Software engineer (data visualization, mathmatician)
