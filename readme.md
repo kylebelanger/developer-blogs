@@ -4,40 +4,40 @@ A collection of developer/engineering blogs from real people
 
 * [Avery Laird](http://www.averylaird.com)
 	
-	Blog. Computer scientist - working on creating a text editor.
+	Computer Scientist.
 
 * [Jason Davies](https://www.jasondavies.com/)
 
-	Software engineer (data visualization, mathmatician)
+	Software Engineer (data visualization, mathmatician)
 
 * [Pavel Zemtsov](http://pzemtsov.github.io/)
 
-	Software engineer
+	Software Engineer
 
 * [Evan Miller](http://www.evanmiller.org/index.html)
 
-	Engineer, matmatician
+	Engineer
 
 * [Documentation Archive](http://readthedocs.org)
 
-	Read the Docs - website hosting project documentation and archives. 
+	Hosting project documentation and archives. 
 
 * [Matthew Green](http://blog.cryptographyengineering.com/)
 
-	Cryptographic engineer and professor at Johns Hopkins University.
+	Cryptographic Engineer and Professor at Johns Hopkins University.
 
 * [Tom Macwright](http://www.macwright.org/)
 
-	MapBox - JavaScript engineer. Does unique, handmade stencil drawings in a variety of personal projects
+	MapBox - JavaScript engineer.
 
 * [Nelson](http://www.somebits.com/weblog/)
 
-	Interesting software engineer; creator of D3 river map data visualization. Interesting linkblog connected with Pinboard featuring informative articles
+	Creator of D3 river map data visualization.
 
 * [Molsson](http://mo.github.io/)
 
-	Worth checking up on.
+	Software Engineer.
 
 * [Brian Rae](http://www.brianrea.com/)
 
-	Graphic designer with NYT.
+	Graphic Designer - NYT.
