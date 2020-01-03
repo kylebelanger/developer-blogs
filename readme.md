@@ -8,7 +8,7 @@ A collection of developer/engineering blogs from real people
 
 * [Jason Davies](https://www.jasondavies.com/)
 
-	Software Engineer (data visualization, mathmatician)
+	Software Engineer (data visualization, mathematician)
 
 * [Pavel Zemtsov](http://pzemtsov.github.io/)
 
